@@ -1,0 +1,23 @@
+2023-09-14 20:08:35,189 - Logger - INFO - Program started
+2023-09-14 20:08:44,805 - Logger - INFO - Program printed to user
+2023-09-14 20:08:44,805 - Logger - INFO - Program printed to user
+2023-09-14 20:08:44,805 - Logger - INFO - Program done
+2023-09-14 20:09:18,666 - Logger - INFO - Program started
+2023-09-14 20:09:27,674 - Logger - ERROR - Incorrect value
+2023-09-14 20:09:39,134 - Logger - INFO - Program printed to user
+2023-09-14 20:09:39,135 - Logger - INFO - Program printed to user
+2023-09-14 20:09:39,135 - Logger - INFO - Program done
+2023-09-14 20:09:50,430 - Logger - INFO - Program started
+2023-09-14 20:10:03,097 - Logger - INFO - Program printed to user
+2023-09-14 20:10:03,098 - Logger - INFO - Program printed to user
+2023-09-14 20:10:03,098 - Logger - INFO - Program done
+2023-09-14 20:13:01,506 - Logger - INFO - Program started
+2023-09-14 20:13:04,353 - Logger - ERROR - Incorrect value
+2023-09-14 20:13:07,671 - Logger - ERROR - Incorrect value
+2023-09-14 20:13:14,915 - Logger - INFO - Program printed to user
+2023-09-14 20:13:14,916 - Logger - INFO - Program printed to user
+2023-09-14 20:13:14,916 - Logger - INFO - Program done
+2023-09-14 20:13:29,846 - Logger - INFO - Program started
+2023-09-14 20:13:50,286 - Logger - INFO - Program printed to user
+2023-09-14 20:13:50,286 - Logger - INFO - Program printed to user
+2023-09-14 20:13:50,286 - Logger - INFO - Program done
